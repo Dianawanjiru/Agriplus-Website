@@ -35,6 +35,7 @@ Istall on a phone by: open google playstore, type agriplus-website and click on 
 install on computer :Open microsoft store, search for this app with our logo, click install button.
 ##CONTRIBUTORS
 Diana wanjiru
+
 ##CONTACTS
 In case of any question, write me an email
 diana.wanjiru@student.moringaschool.com
