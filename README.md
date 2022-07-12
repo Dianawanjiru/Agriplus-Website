@@ -1,10 +1,10 @@
 TABLE OF CONTENTS
 
+
 About the project
 *Built with
 Getting started
 installation
-
 Contributors
 References
 Contacts
