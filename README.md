@@ -15,7 +15,7 @@ Acknowledgements
 
 
 ABOUT THE PROJECT:
-Can we all agree that the world is currently turning upside down with the whole Covid 19 pandemic going on! If there is something that this pandemic has taught us is that we can be able to do alot of shopping online, including farm products. Who has the time to go to the market, risk being infected with corona virus and waste alot of time with the sorting of products. My project (which is a website) is meant to help connect  buyers with sellers and directly where they can engage in this online platform. This will help all of us save alot of time and keep us safe from the virus.
+Can we all agree that the world is currently turning upside down with the whole Covid 19 pandemic going on! If there is something that this pandemic has taught us is that we can be able to do alot of shopping online, including farm products. Who has the time to go to the market, risk being infected with corona virus and waste alot of time with the sorting of products?No one i guess. My project (which is a website) is meant to help connect  buyers with sellers and directly where they can engage in this online platform. This will help all of us save alot of time and keep us safe from the virus.
 
 *BUILT WITH
 This website is entirely built with:
