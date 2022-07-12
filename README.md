@@ -27,7 +27,7 @@ HTML
 Fast and reliable internet connection
 A computer devise, iphone, android phone to get you started
 
-##PREREQUISITES
+
 
 
 ##INSTALLATION
