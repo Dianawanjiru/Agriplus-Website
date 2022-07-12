@@ -65,19 +65,16 @@ button:hover{
     cursor: pointer;
 }
 
-.first {
-    background-image:url(assets/image\ 1.png);
+.intro{
+    background-image:url(../assets/image\ 1.png);
     /* linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),  */
     background-position: center;
     background-size: contain;
-    height: 500px;
+    height: 560px;
     width: 100%;
     /* margin-top: 100px; */
 }
-
-
-
-.first h1{
+.intro h1{
     padding-top: 90px;
     padding-left: 20px;
     font-size: 30px;
@@ -87,7 +84,7 @@ h1{
     font-family: 'Poppins';
     font-size: 25px;
 }
-.first p{
+.intro p{
     padding-left: 20px;
     padding-top: 10px;
     font-size: 20px;
@@ -97,37 +94,35 @@ h1{
    margin: 50px;
    border: none;
 }
-/* Find a solution to this problem Asap*/
-.content .img2{
+/* Find a solution to this problem ASAP */
+.intro .img2{
     float:right;
     padding-right: 50px;
     height: 80%;
     width: 70%;
 }
 
-.content {
+.stats{
     background-color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-align: center;
     /* border: 1px solid black; */
-    height: 160px;
-    width: 60%;
-    box-shadow: 25px;
-    margin-top: -80px;
-    margin-left: 350px;
+    height: 150px;
+    width: 50%;
+    box-shadow: 20px;
+    margin-top: -90px;
+    margin-left: 300px;
     box-sizing: border-box;
     box-shadow: 0px 5px whitesmoke;
 }
-    
-
-.content p{
+.stats p{
     font-family: 'Inter', sans-serif;
-    font-weight: 800;
+    font-weight: 900;
 }
-.part2{
-    margin: 19px;
+.sec2{
+    margin: 20px;
     padding-bottom: 200px;
 }
 .img3{
@@ -136,107 +131,107 @@ h1{
     height: 50%;
     padding-right: 200px;
 }
-.part2{
+.sec2{
     padding-top: 30px;
 }
-.part2 p{
+.sec2 p{
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     padding-top: 20px;
 }
-.part3, h1, .part7 h1{
+.sec3 h1, .sec7 h1{
     padding-top: 20px;
     text-align: center;
 }
-.part3 p{
+.sec3 p{
     text-align: center;
     font-family: 'Inter', sans-serif;
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
     font-size: 20px;
 }
 
-.part4{
+.sec4{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 20px;
 }
-.part4 div{
+.sec4 div{
     padding-bottom: 40px;
 }
 
 .img4, .img5, .img6, .img7, .img8, .img9, .img10,.img11{
-    height: 12pc;
-    height: 12pc;
+    height: 11pc;
+    height: 11pc;
 }
-.part4 p{
+.sec4 p{
     font-family: 'Inter', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
 }
 
-.part5, .part6{
+.sec5, .sec6{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 28px;
+    margin-top: 30px;
 }
 .read-more-btn{
     background: none;
     border: none;
     color: black;
     display: inline-block;
-    transform: translate(0.6s);
+    transform: translate(0.4s);
 }
-.part5 p{
+.sec5 p{
     font-weight: 700;
 }
     
 hr{
-    margin: 30px;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 70px;
+    margin-bottom: 70px;
     height: 20px;
-    background-color: white;
+    background-color: rgb(235, 227, 227);
     border: none;
 }
-.part6 h2{
+.sec6 h2{
     font-family: 'Poppins';
-    font-size: 19px;
-    padding-bottom: 35px;
+    font-size: 21px;
+    padding-bottom: 30px;
 }
-.part6 div{
-    max-width: 16%;
+.sec6 div{
+    max-width: 18%;
     box-shadow: 0 10px 10px rgba(0,0,0,0.1);
     background-color:ivory;
-    border-radius: 7px;
+    border-radius: 5px;
 }
-.part6 p{
+.sec6 p{
     float:right;
     font-family: 'Inter', sans-serif;
     padding-right: 20px;
-    font-weight: 800;
+    font-weight: 900;
 }
 .img12, .img13, .img14{
-    width: 40%;
+    width: 30%;
 }
 .checked {
-    color: orangered;
+    color: #ED661F;
   }
 .unchecked{
-    color: white;
+    color: beige;
 }
 
-.part7{
-    margin-top: 70%;
-    margin-bottom: 10%;
-    height: 250px;
+.sec7{
+    margin-top: 80px;
+    margin-bottom: 10px;
+    height: 300px;
     color: white;
     background-color: black;
 }
-.part7 p{
+.sec7 p{
     font-family: 'Inter', sans-serif;
     text-align: center;
     color: solid black;
@@ -244,81 +239,81 @@ hr{
 }
 #mail{
     text-align: center;
-    margin-left: 50%;
-    margin-top: 80px;
-    height: 40%;
+    margin-left: 40%;
+    margin-top: 70px;
+    height: 40px;
 }
 .sub-btn{
-    height: 40%;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-size: 14px;
+    height: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
 }
 
-.part8{
+.sec8{
     background: black;
     color: white;
     text-decoration: none;
     height: 500px;
 }
-.part8a {
+.sec8-main{
     display: inline-flex;
     justify-content: space-between;
 }
-.part8a p{
+.sec8-main p{
     font-family: 'Inter', sans-serif;
-    font-size: 30%;
-    margin-top: 30%;
-    margin-bottom: 20%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-right: 350px;
 }
 #footer{
-    margin-top: 20%;
-    margin-left: 50%;
+    margin-top: 20px;
+    margin-left: 40%;
     margin-right: 30%;
     font-family: 'Poppins';
 }
-.part8 div{
+.sec8 div{
     margin-top: 70px;
     margin-left: 60px;
 }
-.part8 ul li{
+.sec8 ul li{
     list-style: none;
     list-style-type: none;
 }
-.part8 ul li a{
+.sec8 ul li a{
     color: white;
     cursor: pointer;
 }
-.part8 ul li a:hover{
+.sec8 ul li a:hover{
     color: #ED661F;
 }
 
 
 .wrapper a{
-    background: whitesmoke;
+    background: aliceblue;
     box-sizing: content-box;
 }
 .wrapper a:hover{
     color: #ED661F;
 }
 .social-icon{
-    margin-right: 30px;
+    margin-right: 20px;
 }
- .part8a h2.get-app{
+ .sec8-main h2.get-app{
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 
-/* media queries */
-@media (max-width: 1200px) {
+/* media queries begin here */
+@media (max-width: 1000px) {
     body{
-        font-size:0.8em;
+        font-size:0.5rem;
         position: relative
     }
     button{
-        font-size: 15px;
+        font-size: 10px;
         background: blue;
         position: relative;
     }
@@ -327,148 +322,148 @@ hr{
     }
     .intro h1{
         position: relative;
-        font-size: 30px;
+        font-size: 12px;
     }
     .intro p{
         position: relative;
-        font-size: 20px;
+        font-size: 11px;
     }
     .explo-btn{
         position: absolute;
         margin-top: 2px;
     }
-    .content {
+    .stats{
         position: fixed;
     }
-    .content p{
+    .stats p{
         font-weight: 900;
         font-size: 15px;
     }
 
-    part2{
+    .sec2{
         position: relative;
     }
     
-    .part2 h1{
+    .sec2 h1{
         padding-top: 30px;
         font-size: 15px;
     }
     .img3{
         float: right;
     }
-    .part2 p{
-        font-size: 20px;
-        padding-top: 20px;
+    .sec2 p{
+        font-size: 12px;
+        padding-top: 2px;
     }
-    .part3 h1, .part7 h1{
-        padding-top: 20px;
+    .sec3 h1, .sec7 h1{
+        padding-top: 2px;
         text-align: center;
         font-size: 15px;
     }
-    .part3 p{
-        font-size: 20px;
+    .sec3 p{
+        font-size: 12px;
     }
     
-    .part4 h1{
+    .sec4 h1{
         font-size: 10px;
     }
-    .part4 div{
-        padding-bottom: 40px;
+    .sec4 div{
+        padding-bottom: 20px;
     }
     
     .img4, .img5, .img6, .img7, .img8, .img9, .img10,.img11{
-        height: 12pc;
-        height: 13pc;
+        height: 2pc;
+        height: 2pc;
     }
-    .part4 p{
+    .sec4 p{
         font-size: 7px;
-        font-weight: 600;
+        font-weight: 700;
     }
     
-    .part5, .part6{
+    .sec5, .sec6{
         font-size: 7px;
     }
     
-    .part5 p{
+    .sec5 p{
         font-weight: 700;
     }
         
     hr{
-        height: 20px;
-        background-color: white;
+        height: 10px;
+        background-color: rgb(235, 227, 227);
         border: none;
     }
-    .part6 h2{
+    .sec6 h2{
         font-family: 'Poppins';
-        font-size: 19px;
-        padding-bottom: 35px;
+        font-size: 9px;
+        padding-bottom: 3px;
     }
 
-    .part6 p{
+    .sec6 p{
         float:right;
         padding-right: 5px;
-        font-weight: 800;
+        font-weight: 900;
     }
     .img12, .img13, .img14{
-        width: 40%;
+        width: 30%;
     }
     
-    .part7{
-        margin-bottom: 70%;
-        height: 250%;
+    .sec7{
+        margin-bottom: 30px;
+        height: 300%;
     }
-    .part7 p{
+    .sec7 p{
         text-align: center;
     }
     #mail{
         text-align: center;
-        margin-left: 50%;
+        margin-left: 15%;
     }
     
-    .part8{
+    .sec8{
         text-decoration: none;
         height: 100%;
         position: relative;
         width: 100%;
     }
-    .part8a{
+    .sec8-main{
         position: relative;
     }
-    .part8a p{
-        font-size: 30%;
-        margin-top: 30%;
-        margin-bottom: 30%;
-        margin-right: 400px;
+    .sec8-main p{
+        font-size: 12px;
+        margin-top: 8px;
+        margin-bottom: 20px;
+        margin-right: 350px;
     }
     #footer{
         margin-top: 20px;
-        margin-left: 50%;
+        margin-left: 40%;
         margin-right: 30%;
         font-family: 'Poppins';
     }
-    .part8a div{
+    .sec8 div{
         position: relative;
-        margin-top: 70px;
-        margin-left: 60px;
+        margin-top: 40px;
+        margin-left: 20px;
         display: inline-block;
     }
-    .part8 h1, .part8 h2{
-        font-size: 0.8rem;
+    .sec8 h1, .sec8 h2{
+        font-size: 0.6rem;
     }
 
     
     
     .wrapper a{
-        background: whitesmoke;
+        background: aliceblue;
         box-sizing: content-box;
     }
     .wrapper a:hover{
         color: #ED661F;
     }
     .social-icon{
-        margin-right: 30px;
+        margin-right: 20px;
     }
-     .part8a h2.get-app{
+     .sec8-main h2.get-app{
         margin-top: 20px;
         margin-bottom: 20px;
     }
